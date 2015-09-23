@@ -1,0 +1,8 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+2: Derek Higgins <derekh@redhat.com>
+Verified+1: Derek Higgins <derekh@redhat.com>
+Submitted-by: Derek Higgins <derekh@redhat.com>
+Submitted-at: Wed, 23 Sep 2015 12:29:54 +0200
+Reviewed-on: https://review.gerrithub.io/247917
+Project: openstack-packages/python-hardware
+Branch: refs/heads/rpm-master
