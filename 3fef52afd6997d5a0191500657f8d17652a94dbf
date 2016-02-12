@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa81d914_d9bfa6a8",
+        "filename": "python-hardware.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1002601
+      },
+      "writtenOn": "2016-02-12T21:02:55Z",
+      "side": 1,
+      "message": "disagree with removing -S git",
+      "revId": "3fef52afd6997d5a0191500657f8d17652a94dbf",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
