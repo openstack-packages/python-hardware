@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da86d52c_86dd5b45",
+        "filename": "python-hardware.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2016-02-17T22:47:06Z",
+      "side": 1,
+      "message": "-tests subpackage would be nice to have, but we need to do that across all python-* packages",
+      "revId": "22d1c9931516d0d475f470661d1444165daff4cd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
